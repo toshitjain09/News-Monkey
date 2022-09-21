@@ -1,9 +1,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+### News Monkey - news app
 
-This projectt is a go to news app delivering daily news feed to the users using news api for daily updated news.
+
+
+This project is a go to news app delivering daily news feed to the users using news api for daily updated news.
 
 Key Features:
 * Filter news according to the category of news, for ex. General, Sports, Entertainment etc.
