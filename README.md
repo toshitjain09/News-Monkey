@@ -3,6 +3,9 @@
 
 ### News Monkey - news app
 
+<img align="right" src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif"  width="300" height="200" />
+![Screenshot 2022-09-21 235058](https://user-images.githubusercontent.com/85878718/191581628-6ceedd6f-300f-4d62-8f21-98994684e533.png)
+![Screenshot 2022-09-21 235123](https://user-images.githubusercontent.com/85878718/191581649-74004f0b-bfc3-4d79-a606-c17c5c07b393.png)
 
 
 This project is a go to news app delivering daily news feed to the users using news api for daily updated news.
