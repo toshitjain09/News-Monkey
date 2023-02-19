@@ -15,7 +15,7 @@ Key Features:
 * Dark mode feature for night.!
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
@@ -26,5 +26,4 @@ Key Features:
 * Boootstrap
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
